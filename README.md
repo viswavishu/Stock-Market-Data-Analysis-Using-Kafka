@@ -17,3 +17,11 @@ In this project, I spearheaded a comprehensive data engineering solution for sto
 - **Querying Insights:** AWS Athena facilitates easy and efficient querying, empowering data-driven decision-making.
 
 This project seamlessly integrates advanced technologies to navigate the dynamic stock market landscape, providing actionable insights for informed decision-making.
+#s3
+![Project Image](Kafka-s3.png)
+
+#EC2
+![Project Image](kafka-ec2.png)
+
+#Athena
+![Project Image](kafka-Athena.png)
